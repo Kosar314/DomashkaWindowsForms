@@ -366,7 +366,6 @@
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form5_2";
             this.Text = "Form5_2";
-            this.Load += new System.EventHandler(this.Form5_2_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.tableLayoutPanel1.ResumeLayout(false);

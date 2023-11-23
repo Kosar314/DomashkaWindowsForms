@@ -23,3 +23,17 @@ C:\Users\STUDENT\Documents\Косаренко ИСПб-о21\WindowsForms\obj\Deb
 C:\Users\STUDENT\Documents\Косаренко ИСПб-о21\WindowsForms\obj\Debug\FirstApp.exe
 C:\Users\STUDENT\Documents\Косаренко ИСПб-о21\WindowsForms\obj\Debug\FirstApp.pdb
 C:\Users\STUDENT\Documents\Косаренко ИСПб-о21\WindowsForms\obj\Debug\FirstApp.Form5_2.resources
+C:\Users\STUDENT\Desktop\WindowsForms\bin\Debug\FirstApp.exe.config
+C:\Users\STUDENT\Desktop\WindowsForms\bin\Debug\FirstApp.exe
+C:\Users\STUDENT\Desktop\WindowsForms\bin\Debug\FirstApp.pdb
+C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.FMain.resources
+C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.Form2.resources
+C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.Form5_2.resources
+C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.exe
+C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.pdb
+C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.Form6.resources

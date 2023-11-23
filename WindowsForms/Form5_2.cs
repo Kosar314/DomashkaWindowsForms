@@ -52,10 +52,5 @@ namespace FirstApp
                 MessageBox.Show("Неверное значение", "Ошибка!");
             }
         }
-
-        private void Form5_2_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

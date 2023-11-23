@@ -16,7 +16,7 @@ namespace FirstApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form5_2());
+            Application.Run(new Form6());
         }
     }
 }

@@ -37,3 +37,17 @@ C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.csproj.CoreCompileInput
 C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.exe
 C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.pdb
 C:\Users\STUDENT\Desktop\WindowsForms\obj\Debug\FirstApp.Form6.resources
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\bin\Debug\FirstApp.exe.config
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\bin\Debug\FirstApp.exe
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\bin\Debug\FirstApp.pdb
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\obj\Debug\FirstApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\obj\Debug\FirstApp.FMain.resources
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\obj\Debug\FirstApp.Form2.resources
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\obj\Debug\FirstApp.Form5_2.resources
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\obj\Debug\FirstApp.Form6.resources
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\obj\Debug\FirstApp.Properties.Resources.resources
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\obj\Debug\FirstApp.csproj.GenerateResource.cache
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\obj\Debug\FirstApp.exe
+C:\Users\ivank\OneDrive\Рабочий стол\DomashkaWindowsForms-main\WindowsForms\obj\Debug\FirstApp.pdb

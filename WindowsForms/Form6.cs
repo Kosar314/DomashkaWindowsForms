@@ -19,6 +19,16 @@ namespace FirstApp
 
         private void buttonCount_Click(object sender, EventArgs e)
         {
+            if (!CheckField(ref textBoxOnePrice, true) |
+                !CheckField(ref textBoxAmount, true) |
+                !CheckField(ref textBoxFirm, false) |
+                !CheckField(ref textBoxMark, false) |
+                !CheckField(ref textBoxModel, false))
+            {
+                MessageBox.Show("Неправильно заполнены поля", "Ошибка!");
+                return;
+            }
+
             double price = Convert.ToDouble(textBoxOnePrice.Text);
             double amount = Convert.ToDouble(textBoxAmount.Text);
             double cardDiscount;
@@ -44,6 +54,8 @@ namespace FirstApp
             double discount = (price * amount * cardDiscount) / 100;
 
             textBoxFinalPrice.Text = $"{price * amount - discount}";
+
+            MessageBox.Show($"Товар {textBoxFirm.Text} {textBoxMark.Text} {textBoxModel.Text}. К оплате {textBoxFinalPrice.Text}");
         }
 
         private bool CheckField(ref TextBox textBox, bool isIntCheck)
